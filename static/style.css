@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Edu AU VIC WA NT Dots", sans-serif;
+    color: white;
+}
+
+a:visited, a:active, a:link, a:hover {
+    color:darkgray;
+    font-size: large;
+}
+
+#download {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
